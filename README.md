@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+### Data Analyst Portfolio
 
 # Analysis of Metacritic Games
 ### Click for interactive story on Tableau Public
