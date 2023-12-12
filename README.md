@@ -10,5 +10,4 @@
 [![Image 5](https://github.com/mlingley/portfolio/blob/56000762c03884d001ee7d6e5bc5a7dd93a98c40/assets/Story%201%20(4).png)](https://public.tableau.com/views/AnalysisofMetacriticGames/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 [![Image 6](https://github.com/mlingley/portfolio/blob/56000762c03884d001ee7d6e5bc5a7dd93a98c40/assets/Story%201%20(5).png)](https://public.tableau.com/views/AnalysisofMetacriticGames/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-<iframe src="https://mlingley.github.io/tableau_viz.html" height="600" width="800"></iframe>
 
