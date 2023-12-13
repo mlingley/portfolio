@@ -10,6 +10,6 @@
 [![Image 3](assets/images/page3.png)](https://public.tableau.com/views/AnalysisofMetacriticGames/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 [![Image 4](assets/images/page4.png)](https://public.tableau.com/views/AnalysisofMetacriticGames/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 [![Image 5](assets/images/page5.png)](https://public.tableau.com/views/AnalysisofMetacriticGames/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
-[![Image 6](assets/images/page5.png)](https://public.tableau.com/views/AnalysisofMetacriticGames/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
+[![Image 6](assets/images/page6.png)](https://public.tableau.com/views/AnalysisofMetacriticGames/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
